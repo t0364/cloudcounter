@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cloudcounter/static/css/main.494add00.css",
+    "main.js": "/cloudcounter/static/js/main.6811199b.js",
+    "static/js/453.42990521.chunk.js": "/cloudcounter/static/js/453.42990521.chunk.js",
+    "index.html": "/cloudcounter/index.html",
+    "main.494add00.css.map": "/cloudcounter/static/css/main.494add00.css.map",
+    "main.6811199b.js.map": "/cloudcounter/static/js/main.6811199b.js.map",
+    "453.42990521.chunk.js.map": "/cloudcounter/static/js/453.42990521.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.494add00.css",
+    "static/js/main.6811199b.js"
+  ]
+}
